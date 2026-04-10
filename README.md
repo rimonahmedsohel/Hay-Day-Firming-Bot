@@ -39,3 +39,5 @@ The easiest way to use the bot is to download the standalone `.exe` release from
 4. Click **▶ Start Bot**. The bot will start working immediately. The live log panel will display the connection status and progress.
 5. Click **■ Stop Bot** at any time to halt the bot safely.
 ---
+
+This is an experimental project. It may make mistakes, and using this application may carry a risk of being banned by Supercell.

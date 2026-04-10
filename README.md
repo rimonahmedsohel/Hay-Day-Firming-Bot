@@ -40,4 +40,4 @@ The easiest way to use the bot is to download the standalone `.exe` release from
 5. Click **■ Stop Bot** at any time to halt the bot safely.
 ---
 
-This is an experimental project. It may make mistakes, and using this application may carry a risk of being banned by Supercell.
+<i>This is an experimental project. It may make mistakes, and using this application may carry a risk of being banned by Supercell.</i>
